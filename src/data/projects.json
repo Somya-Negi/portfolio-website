@@ -1,0 +1,34 @@
+[
+    {
+      "title": "Advanced React Data Table with Server-Side Pagination and Persistent Row Selection ( React + Vite + TypeScript )",
+      "imageSrc": "projects/project.png",
+      "description": "Developed a React app using Create React App, VITE, and TypeScript with PrimeReact’s DataTable. The project includes server-side pagination for efficient data handling and memory optimization, fetching data on demand. Custom row selection allows users to select individual or all rows, with persistent selections across page changes for a consistent experience. The app avoids memory issues by dynamically fetching data. Deployed on Netlify, ensuring reliable performance. ",
+      "skills": ["React", "HTML","CSS"],
+      "demo": "https://tablemanager.netlify.app/",
+      "source": "https://www.linkedin.com/in/somya-negi-6257682bb/details/projects/"
+    },
+    {
+      "title": "Healthcare Service Provider App - React-based Service Management System",
+      "imageSrc": "projects/project.png",
+      "description": "Developed a responsive web application using React for managing healthcare services. The app allows users to add, update, and delete services, including functionalities like price validation and dynamic updates. It features a clean UI with form validation and utilizes Bootstrap for styling. The project highlights state management using hooks and interactive form handling, delivering a seamless user experience for healthcare administrators.",
+      "skills": ["React", "HTML", "CSS", "JavaScript"],
+      "demo": "https://healthservicesapp.netlify.app/",
+      "source": "https://www.linkedin.com/in/somya-negi-6257682bb/details/projects/"
+    },
+    {
+      "title": "E Commerce Website (Frontend: HTML, CSS And JavaScript)",
+      "imageSrc": "projects/project.png",
+      "description": "In this project, I have created a front end e-commerce website in which I have created different pages linked together : Home page, Category page, Products page, Product Detail page, About Us page, Contact Us page, Search page, Checkout page, Cart page and Order confirmation page. The Contact Us form is embedded with Javascript to verify the details added by the user. The website focuses more on catching the structure and layout of the e-commerce website as well as it is linked with Bootstrap and the features of carousel and navigation bar are also included in the website",
+      "skills": [ "HTML", "CSS", "JavaScript"],
+      "demo": "https://shoppersproject.netlify.app/",
+      "source": "https://www.linkedin.com/in/somya-negi-6257682bb/details/projects/"
+    },
+    {
+        "title": "Youtube Clone Project (HTML5 And CSS)",
+        "imageSrc": "projects/project.png",
+        "description": "Built a simple YT Clone using HTML and CSS",
+        "skills": ["CSS", "HTML"],
+        "demo": "https://github.com/Somya-Negi/yt-clone",
+        "source": "https://www.linkedin.com/in/somya-negi-6257682bb/details/projects/"
+      }
+  ]
